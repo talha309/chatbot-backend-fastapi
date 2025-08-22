@@ -5,6 +5,7 @@ The app demonstrates how to create a conversational agent with a graph-based wor
 
 ---
 
+![Chatbot Screenshot](backend_fastapi\Screenshot_2.png)
 ## 🚀 Features
 
 * **Google Gemini LLM**: Powered by `ChatGoogleGenerativeAI` to handle natural language queries.
