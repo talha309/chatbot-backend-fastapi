@@ -4,6 +4,7 @@ This is a simple chatbot application built using **FastAPI**, **LangGraph**, and
 The app demonstrates how to create a conversational agent with a graph-based workflow and serve it through an API endpoint.
 
 ---
+![Uploading Screenshot_2.png…]()
 
 ## 🚀 Features
 
