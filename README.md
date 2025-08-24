@@ -120,6 +120,11 @@ Response:
 }
 ```
 
+<img width="462" height="410" alt="postman_upload" src="https://github.com/user-attachments/assets/0e1b0eb3-6a97-405e-a0c2-4b8160709727" />
+
+
+
+
 ---
 
 ## ✅ Future Improvements
